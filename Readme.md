@@ -65,26 +65,6 @@ Visualizations
 - Top-N Analysis
 - Business Insights
 
-📂 Dataset
-
-Digital Payment Transactions Dataset
-
-📷 Dashboard Preview
-
-Executive Summary
-
-
-
-### Digital Payments
-
-(Add Screenshot Here)
-
-### Transaction Analysis
-
-(Add Screenshot Here)
-
----
-
 ## 📁 Project Files
 
 - UPI_ANALYSIS.pbix
